@@ -29,13 +29,4 @@ When a failing orbital station sends one hundred young exiles to a hostile Earth
 
 Use these as retrieval prompts where the answer should cite supporting page numbers.
 
-1. How does Rhea's public-first accountability stance evolve from early camp governance into the open Valley Accord process, and which events make that shift politically viable?
-2. Why does Lenn's acceptance as a defector succeed where earlier trust failures nearly fractured the coalition, and what institutional changes explain the difference?
-3. How does the bunker discovery about hidden contingency infrastructure shape the decision to use Summit Spire for a truth broadcast, and why does that lead to formal power-sharing?
-4. In what way does Dex's injury arc transform him from reckless actor to trusted defender, and how does that culminate in the drone defense outcome?
-5. How does Iris's relationship to information change from private coping to collective governance tool to strategic broadcast weapon across the story?
-6. Why is the Needle Gate sniper attack the key turning point for Krell and the Ash Wolves joining a coalition, rather than any earlier negotiation effort?
-7. How do the charter and transparency rules survive stress conditions before the summit mission, and why does that resilience matter for later legitimacy?
-8. How does Jonah's repeated caution build a different kind of authority than Dex's high-risk style, and how do both become necessary in the endgame?
-9. How does the story move from short-term survival tradeoffs to the "no abandonment" founding principle, and which earlier crises make that principle necessary rather than symbolic?
-10. Why does the Accord work despite persistent conflict afterward, and what does implementation in education, security, and mediation reveal about success criteria in this world?
+See [rag-eval.json](rag-eval.json)

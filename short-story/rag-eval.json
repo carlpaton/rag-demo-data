@@ -1,0 +1,66 @@
+{
+  "dataset": "The 100 short story",
+  "version": "1.0",
+  "items": [
+    {
+      "id": 1,
+      "question": "How does Rhea's public-first accountability stance evolve from early camp governance into the open Valley Accord process, and which events make that shift politically viable?",
+      "expected_answer": "Rhea begins with small public accountability gestures in camp, then makes transparency non-negotiable when outside pressure escalates. The custody-list moment and later charter rule requiring intercepted transmissions to be made public within six hours turn accountability into policy, not personality. Once Iris exposes Vale's covert manipulation and the summit broadcast reaches Helios, transparency becomes the only politically credible path. That sequence makes the Valley Accord's open process viable because secrecy has already been discredited.",
+      "support_docs": ["pg3.md", "pg6.md", "pg7.md", "pg8.md", "pg12.md", "pg15.md", "pg18.md"]
+    },
+    {
+      "id": 2,
+      "question": "Why does Lenn's acceptance as a defector succeed where earlier trust failures nearly fractured the coalition, and what institutional changes explain the difference?",
+      "expected_answer": "Earlier trust failures happened when decisions were ad hoc and emotionally reactive. Lenn is accepted under a more mature system: supervised role assignment, explicit guardrails, and \"mercy with accountability\" rather than blind trust. His intelligence is tested operationally during the bunker mission, and his protective actions under fire validate him in practice. The difference is institution plus verification.",
+      "support_docs": ["pg5.md", "pg7.md", "pg9.md", "pg10.md"]
+    },
+    {
+      "id": 3,
+      "question": "How does the bunker discovery about hidden contingency infrastructure shape the decision to use Summit Spire for a truth broadcast, and why does that lead to formal power-sharing?",
+      "expected_answer": "The bunker proves that old-world infrastructure still exists and can be repurposed, shifting strategy from pure defense to information control. When Vale's transmission is decoded, the group sees that exposing truth at scale matters more than a local tactical win. Summit Spire is chosen because its emergency frequency can reach orbit and create a legitimacy crisis on Helios. That crisis fractures top-down control and opens the door to negotiated power-sharing through the Accord.",
+      "support_docs": ["pg10.md", "pg11.md", "pg12.md", "pg15.md", "pg18.md"]
+    },
+    {
+      "id": 4,
+      "question": "In what way does Dex's injury arc transform him from reckless actor to trusted defender, and how does that culminate in the drone defense outcome?",
+      "expected_answer": "Dex starts as impulsive and reputation-driven, often acting before thinking through political consequences. His wound and recovery force him into observation, patience, and disciplined decision-making. By the drone attack, he is no longer chasing glory; he executes one controlled, high-impact action at the right moment. His shot that downs the second drone symbolizes his shift from reckless risk to reliable defense.",
+      "support_docs": ["pg2.md", "pg5.md", "pg10.md", "pg11.md", "pg16.md"]
+    },
+    {
+      "id": 5,
+      "question": "How does Iris's relationship to information change from private coping to collective governance tool to strategic broadcast weapon across the story?",
+      "expected_answer": "Iris begins by using data as personal control in chaos, then scales that habit into shared systems like inventories, schedules, and traceable records. As the coalition matures, information becomes governance infrastructure through transparency norms. Once she cracks Vale's traffic, information becomes strategic leverage capable of reshaping alliances. At Summit Spire, she converts evidence into public broadcast power that reorders political authority.",
+      "support_docs": ["pg1.md", "pg3.md", "pg6.md", "pg8.md", "pg12.md", "pg15.md"]
+    },
+    {
+      "id": 6,
+      "question": "Why is the Needle Gate sniper attack the key turning point for Krell and the Ash Wolves joining a coalition, rather than any earlier negotiation effort?",
+      "expected_answer": "Earlier diplomacy failed because Krell still benefited from conflict and believed he had leverage. Needle Gate changes that with undeniable proof: Vale treats him as a disposable proxy, and sniper fire confirms betrayal in real time. That shared exposure of manipulation aligns Krell's interests with the coalition faster than persuasion alone could. The alliance is triggered by convergent survival incentives, not rhetoric.",
+      "support_docs": ["pg11.md", "pg13.md", "pg14.md"]
+    },
+    {
+      "id": 7,
+      "question": "How do the charter and transparency rules survive stress conditions before the summit mission, and why does that resilience matter for later legitimacy?",
+      "expected_answer": "The charter is stress-tested during scarcity and storm pressure, when hoarding and faction favoritism would normally break fragile coalitions. Instead, rotating authority, explicit review windows, and applied consequences keep process intact. Because those rules function under fear and deprivation, they earn practical trust. That resilience later gives the Accord legitimacy as a system people have already seen work in crisis.",
+      "support_docs": ["pg7.md", "pg8.md", "pg9.md", "pg18.md"]
+    },
+    {
+      "id": 8,
+      "question": "How does Jonah's repeated caution build a different kind of authority than Dex's high-risk style, and how do both become necessary in the endgame?",
+      "expected_answer": "Jonah's authority comes from systems: procedures, fallback plans, documentation, and constraint. Dex's authority comes from visible courage and action under pressure. In the endgame, both are required: Dex delivers decisive tactical action while Jonah's structure makes coordinated response and post-crisis accountability possible. The story frames legitimacy as the combination of bravery plus institution-building.",
+      "support_docs": ["pg2.md", "pg3.md", "pg7.md", "pg8.md", "pg16.md", "pg18.md"]
+    },
+    {
+      "id": 9,
+      "question": "How does the story move from short-term survival tradeoffs to the \"no abandonment\" founding principle, and which earlier crises make that principle necessary rather than symbolic?",
+      "expected_answer": "The narrative repeatedly shows the cost of expendability logic: orbital triage, hidden detention plans, hoarding under scarcity, and civilian losses under drone attack. Each crisis demonstrates that abandoning the vulnerable produces long-term instability and moral collapse. By the end, \"no abandonment\" is not aspirational branding but a learned operational rule for collective survival. The principle becomes foundational because the characters have lived its opposite.",
+      "support_docs": ["pg1.md", "pg3.md", "pg6.md", "pg9.md", "pg16.md", "pg20.md"]
+    },
+    {
+      "id": 10,
+      "question": "Why does the Accord work despite persistent conflict afterward, and what does implementation in education, security, and mediation reveal about success criteria in this world?",
+      "expected_answer": "The Accord works because it institutionalizes conflict management rather than promising harmony. Mixed patrols, tribunals, shared clinics, education exchange, and mediated dispute channels absorb ongoing friction without returning to annihilation politics. Implementation shows success is measured by durability, accountability, and reduced disposability, not by the absence of disagreement. In this world, progress is the ability to keep conflict inside legitimate processes.",
+      "support_docs": ["pg17.md", "pg18.md", "pg19.md", "pg20.md"]
+    }
+  ]
+}

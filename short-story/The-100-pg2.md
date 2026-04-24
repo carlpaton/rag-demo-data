@@ -1,0 +1,7 @@
+﻿# Page 2
+
+The descent was less landing than controlled collapse. Heat shields screamed, warning lights strobed, and every second felt borrowed. When the hull finally struck ground, the ship tore through wet undergrowth and slammed sideways into a ridge. For several heartbeats, nobody moved. Then a hatch actuator popped, and humid air flooded the cabin with the smell of rain, soil, and living things so sharp it made half the crew dizzy.
+
+Rhea cut restraints with a utility blade and kicked open the emergency hatch. Dex launched out first, laughed once in disbelief, and dropped to kiss the mud. Jonah followed with rigid caution, scanning treelines for movement before he let himself breathe. Iris stepped onto moss with boots shaking and immediately began logging radiation, particulate density, and river direction. Her dosimeter stayed green.
+
+Within an hour, survivors spread around the wreck collecting med packs, fabric panels, and battery cells before weather ruined them. The sky was huge, loud with birds and wind, nothing like Helios corridors. Ninety-seven were alive, two badly injured, one missing in the crash path. By dusk they had erected a crude camp ringed by signal flares. Then a horn echoed from distant forest, low and deliberate, answered by another farther north. Not machine, not animal. Every conversation died at once. Earth had not healed into emptiness. Someone else had survived long enough to claim it, and now the newcomers were trespassers with nowhere else to go.
